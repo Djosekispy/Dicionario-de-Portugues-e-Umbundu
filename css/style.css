@@ -1,0 +1,53 @@
+	body{
+		background: grey;
+		
+	}
+
+	@media (min-width: 700px)
+{
+.corpo{
+	max-width: 900px;
+	margin: 0px auto;
+}
+}
+
+	#inserir{
+		border-radius: 10px;
+		margin: 2px 5px 2px 5px;
+		background-color: white;
+		width: 70%;
+		text-indent: 10px;
+	}
+.cabacalho{
+	margin: 2px auto;
+}
+
+
+#formulario{
+	width: 100%;
+	
+}
+.row{
+	text-align: center;
+		margin: 0 auto;
+}
+
+#botao{
+	height: 40px;
+	border-radius: 10px;
+	width: 25%;
+    border: none;
+
+}
+#tema{
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2em;
+}
+.tamanho{
+	text-transform: uppercase;
+}
+form{
+	margin: auto;
+	padding-left: 20px;
+}

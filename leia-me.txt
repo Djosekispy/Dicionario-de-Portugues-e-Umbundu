@@ -1,0 +1,16 @@
+Para executar sem problemas
+1 - Execute u arquivo do banco de dados
+2 - Ligue o seu servidor (Localhost)
+3 - Acesse a página pelo seu navegador
+
+git remote add origin https://github.com/Djosekispy/Provedor-de-tv.git
+git branch -M main
+git push -u origin main
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Djosekispy/Provedor-de-tv.git
+git push -u origin main
